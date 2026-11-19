@@ -1,0 +1,11 @@
+﻿source_city,source_terminal,dest_city,dest_terminal,approx_km,typical_categories,confidence
+Kolkata,Esplanade Bus Terminus,Durgapur,Durgapur City bus stand (operator-specific),~170,Govt + private AC/non-AC (typical),C
+Kolkata,Esplanade Bus Terminus,Siliguri,Tenzing Norgay Central Bus Terminus,~560-600,Govt (NBSTC/WBSTC) + private sleeper/AC,C
+Delhi,Maharana Pratap ISBT (Kashmere Gate),Jaipur,Sindhi Camp Bus Stand,~270-280,"RSRTC, Haryana Roadways, private AC",C
+Delhi,Maharana Pratap ISBT (Kashmere Gate),Chandigarh,ISBT Sector 17,~250,"CTU/HRTC/PRTC, Volvo AC",C
+Mumbai,Mumbai Central ST Depot (MSRTC),Pune,Swargate Bus Station,~150,"MSRTC (Shivneri AC), private",C
+Bengaluru,Kempegowda Bus Station (Majestic),Chennai,CMBT Koyambedu,~345,"KSRTC, TNSTC, private multi-axle",C
+Hyderabad,MGBS,Vijayawada,Pandit Nehru Bus Station,~270,"TGSRTC, APSRTC, private sleeper",C
+Chennai,CMBT Koyambedu,Coimbatore,Gandhipuram Central Bus Terminus,~500,"SETC, private sleeper/AC",C
+Ahmedabad,Geeta Mandir Bus Station,Surat,Surat Central Bus Depot,~265,"GSRTC, private AC",C
+Guwahati,Paltan Bazar (ASTC),Shillong,Shillong Police Bazar area (operator-specific),~100,"ASTC, MTC, shared/private",C

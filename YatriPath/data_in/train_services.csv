@@ -1,0 +1,18 @@
+﻿service_type,description,booking_type,operator
+Local / Suburban,"Short-distance commuter trains in Mumbai, Kolkata, Chennai, Delhi NCR, Hyderabad (MMTS), Pune, Bengaluru",Unreserved; UTS app / counters,Indian Railways (not metro)
+Passenger,"Slow stopping trains, most halts, unreserved/second-class seating",Unreserved,Indian Railways
+MEMU,"Mainline Electric Multiple Unit; short/medium distance, mostly unreserved",Unreserved,Indian Railways
+DEMU,Diesel Electric Multiple Unit; non-electrified sections,Unreserved,Indian Railways
+Mail / Express,Long-distance trains with limited halts; reserved + unreserved coaches,Reserved + General,Indian Railways
+Superfast,Express trains with higher average speed; superfast surcharge applies,Reserved,Indian Railways
+Rajdhani Express,All-AC premium trains connecting state capitals to Delhi,Reserved (AC only),Indian Railways
+Shatabdi Express,All-AC chair-car day trains on intercity routes,Reserved (CC/EC),Indian Railways
+Vande Bharat Express,Semi-high-speed all-chair-car (and sleeper variants being introduced); verify per train,Reserved,Indian Railways
+Amrit Bharat Express,Non-AC sleeper/general coaches; launched Dec 2023,Reserved + General,Indian Railways
+Duronto Express,Non-stop / limited-stop long-distance trains,Reserved,Indian Railways
+Garib Rath,Low-fare AC 3-tier trains,Reserved,Indian Railways
+Humsafar Express,All 3AC trains,Reserved,Indian Railways
+Jan Shatabdi,Lower-fare Shatabdi-type day trains; AC and non-AC chair car,Reserved,Indian Railways
+Tejas Express,"Premium trains, some run by IRCTC",Reserved,IRCTC / Indian Railways
+Special trains,Seasonal/festival/holiday specials; separate numbering,Reserved / Unreserved,Indian Railways
+Metro rail,"Urban metro systems (DMRC, Kolkata Metro, CMRL, BMRCL, etc.); NOT part of Indian Railways ticketing",Separate cards/QR/apps,Metro operators

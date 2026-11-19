@@ -1,0 +1,96 @@
+/* LOCATION SEARCH: the From / To autocomplete boxes and their suggestion list. */
+
+.fld.cb {
+  position: relative;
+}
+
+.cb input {
+  padding-right: 26px;
+  text-overflow: ellipsis;
+}
+
+.clr {
+  position: absolute;
+  right: 10px;
+  top: 30px;
+  border: 0;
+  background: var(--cy);
+  color: var(--blue);
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  cursor: pointer;
+  line-height: 1;
+  font-size: 15px;
+}
+
+.sug {
+  position: absolute;
+  left: 0;
+  top: 100%;
+  margin: 4px 0 0;
+  padding: 6px;
+  list-style: none;
+  min-width: 340px;
+  max-height: 340px;
+  overflow: auto;
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: var(--sh2);
+  border: 1px solid var(--bd);
+  z-index: 50;
+}
+
+.sug li {
+  padding: 10px 12px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.sug li b {
+  color: var(--navy);
+}
+
+.sug li small {
+  display: block;
+  color: var(--mu);
+  font-size: 12.5px;
+}
+
+.sug li.on,
+.sug li:hover {
+  background: var(--cy);
+}
+
+.sug .msg {
+  cursor: default;
+  color: var(--mu);
+  font-size: 14px;
+}
+
+.sug .msg:hover {
+  background: none;
+}
+
+.cd {
+  display: inline-block;
+  background: var(--navy);
+  color: #fff;
+  border-radius: 6px;
+  padding: 0 7px;
+  font-size: 12px;
+  font-weight: 700;
+  margin-left: 4px;
+}
+
+.cerr {
+  color: var(--er);
+  font-size: 12px;
+}
+
+@media(max-width:900px) {
+  .sug {
+    min-width: 0;
+    right: 0;
+  }
+}

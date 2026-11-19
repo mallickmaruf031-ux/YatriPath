@@ -1,0 +1,117 @@
+/* BOOKING FLOW: step bar, identity boxes, seat map, fare breakdown box. */
+
+.steps {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 22px;
+  flex-wrap: wrap;
+}
+
+.steps div {
+  flex: 1;
+  min-width: 110px;
+  text-align: center;
+  padding: 9px;
+  border-radius: 10px;
+  background: #fff;
+  color: var(--mu);
+  font-weight: 600;
+  font-size: 13px;
+  border-bottom: 3px solid var(--bd);
+}
+
+.steps .on {
+  color: var(--navy);
+  border-color: var(--teal);
+}
+
+.steps .done {
+  color: var(--ok);
+  border-color: var(--ok);
+}
+
+.cabin {
+  display: grid;
+  gap: 8px;
+  justify-content: center;
+  background: #f6fafc;
+  padding: 20px;
+  border-radius: 20px;
+  border: 2px solid var(--bd);
+  width: max-content;
+  margin: auto;
+}
+
+.seat {
+  width: 38px;
+  height: 38px;
+  border-radius: 8px 8px 4px 4px;
+  border: 1.5px solid var(--teal);
+  background: #fff;
+  cursor: pointer;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.seat.occ {
+  background: #cfd8e3;
+  border-color: #cfd8e3;
+  cursor: not-allowed;
+  color: #8a97a8;
+}
+
+.seat.sel {
+  background: var(--teal);
+  color: #fff;
+}
+
+.aisle {
+  width: 20px;
+}
+
+.legend {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  margin: 12px 0;
+  font-size: 13px;
+}
+
+.fare p {
+  display: flex;
+  justify-content: space-between;
+  margin: 6px 0;
+}
+
+.fare .tot {
+  border-top: 1.5px solid var(--bd);
+  padding-top: 10px;
+  font-weight: 800;
+  font-size: 18px;
+  color: var(--navy);
+}
+
+.idbox {
+  background: var(--cy);
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin: 14px 0;
+}
+
+.idbox.warn {
+  background: #fff7e0;
+  border: 1px solid #f0d98a;
+}
+
+.idbox p {
+  margin: 6px 0;
+}
+
+.idbox label {
+  display: block;
+  margin: 6px 0;
+}
+
+.idbox small {
+  color: var(--mu);
+}

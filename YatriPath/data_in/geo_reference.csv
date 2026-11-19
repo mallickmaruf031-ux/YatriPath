@@ -1,0 +1,218 @@
+level,name,lat,lon,note
+city,Kolkata,22.57,88.36,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Howrah,22.59,88.31,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Delhi,28.61,77.21,approximate reference coordinate added by YatriPath; not from the supplied files
+city,New Delhi,28.61,77.21,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Mumbai,19.08,72.88,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Navi Mumbai,19.03,73.03,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Thane,19.22,72.98,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Pune,18.52,73.86,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Bengaluru,12.97,77.59,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Chennai,13.08,80.27,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Hyderabad,17.39,78.49,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Secunderabad,17.44,78.50,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Ahmedabad,23.02,72.57,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Surat,21.17,72.83,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Vadodara,22.31,73.18,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Rajkot,22.30,70.80,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jaipur,26.91,75.79,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jodhpur,26.24,73.02,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Udaipur,24.58,73.68,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jaisalmer,26.92,70.90,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Bikaner,28.02,73.31,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Ajmer,26.45,74.64,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kota,25.21,75.86,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Lucknow,26.85,80.95,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kanpur,26.45,80.35,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Agra,27.18,78.01,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Varanasi,25.32,82.97,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Prayagraj,25.44,81.85,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Gorakhpur,26.76,83.37,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Mathura,27.49,77.67,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Patna,25.59,85.14,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Gaya,24.80,85.00,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Ranchi,23.34,85.31,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jamshedpur,22.80,86.20,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Dhanbad,23.80,86.43,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Bhubaneswar,20.30,85.82,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Cuttack,20.46,85.88,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Puri,19.81,85.83,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Raipur,21.25,81.63,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Bilaspur,22.08,82.15,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Nagpur,21.15,79.09,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Bhopal,23.26,77.41,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Indore,22.72,75.86,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Gwalior,26.22,78.18,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jabalpur,23.18,79.95,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Guwahati,26.14,91.74,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Dibrugarh,27.48,94.91,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Silchar,24.83,92.78,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Shillong,25.57,91.88,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Agartala,23.83,91.28,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Imphal,24.82,93.94,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Aizawl,23.73,92.72,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Dimapur,25.91,93.73,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Siliguri,26.72,88.43,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Durgapur,23.55,87.32,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Asansol,23.68,86.98,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kharagpur,22.35,87.32,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Barddhaman,23.24,87.87,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Chandigarh,30.73,76.78,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Amritsar,31.63,74.87,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Ludhiana,30.90,75.86,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jalandhar,31.33,75.58,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Pathankot,32.27,75.65,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jammu,32.73,74.87,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Srinagar,34.08,74.80,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Leh,34.15,77.58,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Dehradun,30.32,78.03,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Haridwar,29.95,78.16,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Shimla,31.10,77.17,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Ambala,30.38,76.78,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Visakhapatnam,17.69,83.22,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Vijayawada,16.51,80.65,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Guntur,16.31,80.44,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Tirupati,13.63,79.42,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Nellore,14.44,79.99,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Rajahmundry,17.00,81.78,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Coimbatore,11.02,76.96,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Madurai,9.93,78.12,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Tiruchirappalli,10.79,78.70,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Salem,11.66,78.15,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Tirunelveli,8.73,77.70,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kochi,9.93,76.27,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Ernakulam,9.98,76.28,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Thiruvananthapuram,8.52,76.94,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kozhikode,11.26,75.78,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Thrissur,10.53,76.21,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kannur,11.87,75.37,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Mangaluru,12.91,74.86,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Mysuru,12.30,76.64,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Hubballi,15.36,75.12,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Belagavi,15.85,74.50,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Madgaon,15.27,73.96,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Dabolim,15.38,73.84,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Mopa,15.74,73.86,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Vasco da Gama,15.40,73.81,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Puducherry,11.93,79.83,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Port Blair,11.62,92.73,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Warangal,17.97,79.59,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Nashik,20.00,73.79,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Solapur,17.66,75.91,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kolhapur,16.70,74.24,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Aurangabad,19.88,75.34,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kanyakumari,8.09,77.54,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Rameswaram,9.29,79.31,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Erode,11.34,77.72,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Palakkad,10.78,76.65,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Moradabad,28.84,78.78,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jhansi,25.45,78.57,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Itarsi,22.61,77.76,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Katra,32.99,74.93,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Baramulla,34.21,74.34,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kalka,30.84,76.94,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Vapi,20.37,72.91,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Lonavala,18.75,73.41,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kalyan,19.24,73.13,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Virar,19.46,72.81,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Vasai,19.39,72.83,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Panvel,18.99,73.11,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Gandhinagar,23.22,72.65,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Bhavnagar,21.76,72.15,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jamnagar,22.47,70.06,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Dubai,25.20,55.27,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Abu Dhabi,24.45,54.38,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Sharjah,25.35,55.42,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Ras Al Khaimah,25.79,55.94,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Doha,25.29,51.53,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Riyadh,24.71,46.68,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Jeddah,21.54,39.17,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Madinah,24.47,39.61,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Dammam,26.43,50.10,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Muscat,23.59,58.41,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kuwait City,29.38,47.99,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Manama,26.23,50.59,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Singapore,1.35,103.82,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Bangkok,13.76,100.50,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Phuket,7.88,98.39,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kuala Lumpur,3.14,101.69,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Bali,-8.65,115.22,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Hanoi,21.03,105.85,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Ho Chi Minh City,10.82,106.63,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Yangon,16.87,96.20,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Colombo,6.93,79.86,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Male,4.18,73.51,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Kathmandu,27.72,85.32,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Paro,27.43,89.41,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Dhaka,23.81,90.41,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Hong Kong,22.32,114.17,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Guangzhou,23.13,113.26,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Shanghai,31.23,121.47,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Tokyo,35.68,139.69,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Osaka,34.69,135.50,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Seoul,37.57,126.98,approximate reference coordinate added by YatriPath; not from the supplied files
+city,London,51.51,-0.13,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Manchester,53.48,-2.24,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Birmingham,52.49,-1.89,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Paris,48.86,2.35,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Frankfurt,50.11,8.68,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Munich,48.14,11.58,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Amsterdam,52.37,4.90,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Milan,45.46,9.19,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Rome,41.90,12.50,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Zurich,47.37,8.54,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Copenhagen,55.68,12.57,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Istanbul,41.01,28.98,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Tashkent,41.30,69.24,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Almaty,43.24,76.89,approximate reference coordinate added by YatriPath; not from the supplied files
+city,New York,40.71,-74.00,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Newark,40.74,-74.17,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Chicago,41.88,-87.63,approximate reference coordinate added by YatriPath; not from the supplied files
+city,San Francisco,37.77,-122.42,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Seattle,47.61,-122.33,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Washington D C,38.91,-77.04,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Toronto,43.65,-79.38,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Vancouver,49.28,-123.12,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Addis Ababa,9.03,38.74,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Nairobi,-1.29,36.82,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Johannesburg,-26.20,28.05,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Cairo,30.04,31.24,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Port Louis,-20.16,57.50,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Sydney,-33.87,151.21,approximate reference coordinate added by YatriPath; not from the supplied files
+city,Melbourne,-37.81,144.96,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Andaman and Nicobar Islands,11.7,92.7,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Andhra Pradesh,15.9,79.7,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Arunachal Pradesh,28.2,94.7,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Assam,26.2,92.9,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Bihar,25.1,85.3,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Chandigarh,30.73,76.78,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Chhattisgarh,21.3,81.9,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Dadra and Nagar Haveli and Daman and Diu,20.4,72.9,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Delhi (NCT),28.6,77.2,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Goa,15.3,74.0,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Gujarat,22.3,71.2,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Haryana,29.1,76.1,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Himachal Pradesh,31.9,77.2,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Jammu and Kashmir,33.8,76.6,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Jharkhand,23.6,85.3,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Karnataka,15.3,75.7,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Kerala,10.5,76.3,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Ladakh,34.2,77.6,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Lakshadweep,10.6,72.6,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Madhya Pradesh,23.5,78.0,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Maharashtra,19.7,75.7,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Manipur,24.7,93.9,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Meghalaya,25.5,91.4,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Mizoram,23.2,92.8,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Nagaland,26.1,94.6,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Odisha,20.5,84.4,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Puducherry,11.9,79.8,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Punjab,31.1,75.3,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Rajasthan,26.6,73.8,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Sikkim,27.5,88.5,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Tamil Nadu,11.1,78.6,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Telangana,17.9,79.0,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Tripura,23.8,91.7,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Uttar Pradesh,26.8,80.9,approximate reference coordinate added by YatriPath; not from the supplied files
+state,Uttarakhand,30.1,79.3,approximate reference coordinate added by YatriPath; not from the supplied files
+state,West Bengal,23.0,87.9,approximate reference coordinate added by YatriPath; not from the supplied files

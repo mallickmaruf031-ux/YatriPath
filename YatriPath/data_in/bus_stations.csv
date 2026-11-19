@@ -1,0 +1,44 @@
+﻿state,city,terminal_name,category,area,notes,confidence
+Delhi (NCT),Delhi,Maharana Pratap ISBT (Kashmere Gate),ISBT,Kashmere Gate,"Northbound: Haryana, Punjab, HP, J&K, Uttarakhand",C
+Delhi (NCT),Delhi,Anand Vihar ISBT,ISBT,Anand Vihar,"Eastbound: UP, Uttarakhand, Bihar",C
+Delhi (NCT),Delhi,Sarai Kale Khan ISBT,ISBT,Nizamuddin,"Southbound: Rajasthan, MP, Agra/Mathura",C
+Maharashtra,Mumbai,Mumbai Central ST Bus Depot (MSRTC),State transport,Mumbai Central,MSRTC intercity/interstate,C
+Maharashtra,Mumbai,Borivali (Nancy Colony) ST Depot,State transport,Borivali East,MSRTC services,C
+Maharashtra,Pune,Swargate Bus Station,State transport,Swargate,"MSRTC; to Mumbai, Kolhapur, Solapur",C
+Maharashtra,Pune,Shivajinagar Bus Station,State transport,Shivajinagar,MSRTC; Mumbai/Nashik services,C
+Maharashtra,Nagpur,Ganeshpeth Bus Stand,State transport,Ganeshpeth,MSRTC,C
+West Bengal,Kolkata,Esplanade Bus Terminus,City / state transport,Dharmatala,WBSTC/CSTC; north Bengal & Odisha services (operator-specific),C
+West Bengal,Kolkata,Karunamoyee Bus Terminus,City / state transport,Salt Lake (Bidhannagar),WBSTC and private,C
+West Bengal,Siliguri,Tenzing Norgay Central Bus Terminus,State transport,Siliguri,"NBSTC; Sikkim, Darjeeling, Assam routes",C
+Karnataka,Bengaluru,Kempegowda Bus Station (Majestic),State transport,Majestic,KSRTC interstate/intrastate,C
+Karnataka,Bengaluru,Shantinagar Bus Station,State transport,Shantinagar,"KSRTC, interstate",C
+Karnataka,Bengaluru,Satellite Bus Station (Mysuru Road),State transport,Mysuru Road,KSRTC; Mysuru/Mangaluru,C
+Tamil Nadu,Chennai,"Chennai Mofussil Bus Terminus (CMBT), Koyambedu",State transport,Koyambedu,TNSTC and SETC,C
+Tamil Nadu,Chennai,Kilambakkam Bus Terminus (KCBT),State transport,Kilambakkam (Vandalur),Southbound long-distance,C
+Tamil Nadu,Coimbatore,Gandhipuram Central Bus Terminus,State transport,Gandhipuram,TNSTC,C
+Telangana,Hyderabad,Mahatma Gandhi Bus Station (MGBS),State transport,Imlibun,"TGSRTC, interstate",C
+Telangana,Hyderabad,Jubilee Bus Station (JBS),State transport,Secunderabad,"TGSRTC, northbound",C
+Andhra Pradesh,Vijayawada,Pandit Nehru Bus Station (PNBS),State transport,Vijayawada,APSRTC,C
+Gujarat,Ahmedabad,Geeta Mandir Bus Station,State transport,Geeta Mandir Road,GSRTC,C
+Gujarat,Surat,Surat Central Bus Depot,State transport,Surat,GSRTC,C
+Rajasthan,Jaipur,Sindhi Camp Bus Stand,State transport,Sindhi Camp,RSRTC,C
+Uttar Pradesh,Lucknow,Alambagh Bus Station,State transport,Alambagh,UPSRTC,C
+Uttar Pradesh,Lucknow,Kaiserbagh Bus Station,State transport,Kaiserbagh,UPSRTC,C
+Uttar Pradesh,Varanasi,Varanasi Cantt Roadways Bus Station,State transport,Cantt,UPSRTC,C
+Uttar Pradesh,Kanpur,Jhakarkati Bus Station,State transport,Jhakarkati,UPSRTC,C
+Uttar Pradesh,Agra,Idgah Bus Stand,State transport,Idgah,UPSRTC,C
+Bihar,Patna,Mithapur Bus Stand,State transport,Mithapur,BSRTC/private,C
+Madhya Pradesh,Indore,Sarwate Bus Stand,Private / city,Sarwate,Private intercity,C
+Madhya Pradesh,Bhopal,Bhopal ISBT (Bhopal Bus Terminal),ISBT,Bhopal,MPSRTC/private,C
+Chandigarh,Chandigarh,ISBT Sector 17,ISBT,Sector 17,CTU/Haryana/Punjab/HP roadways,C
+Chandigarh,Chandigarh,ISBT Sector 43,ISBT,Sector 43,Interstate services,C
+Assam,Guwahati,Paltan Bazar (ASTC) Bus Station,State transport,Paltan Bazar,ASTC,C
+Assam,Guwahati,ISBT Guwahati (Adabari),ISBT,Adabari,North-east routes,C
+Odisha,Bhubaneswar,Baramunda ISBT,ISBT,Baramunda,OSRTC,C
+Kerala,Kochi,Vyttila Mobility Hub,Mobility hub,Vyttila,KSRTC/private,C
+Kerala,Thiruvananthapuram,Thampanoor KSRTC Central Bus Station,State transport,Thampanoor,KSRTC,C
+Uttarakhand,Dehradun,ISBT Dehradun,ISBT,Dehradun,UKSRTC and interstate,C
+Jammu and Kashmir,Srinagar,Batamaloo Bus Stand,State transport,Batamaloo,JKSRTC/private,C
+Jharkhand,Ranchi,Birsa Chowk Bus Stand (Khadgarha),State transport,Ranchi,JSRTC,C
+Chhattisgarh,Raipur,Raipur New Bus Stand,State transport,Raipur,CGSRTC/private,C
+Punjab,Amritsar,Amritsar Bus Stand,State transport,Amritsar,PRTC/PUNBUS,C

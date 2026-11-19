@@ -1,0 +1,15 @@
+﻿code,name,description,booking_channel
+GEN / UR,General / Unreserved,No seat guarantee; cheapest,"UTS app, station counters; not IRCTC advance reservation"
+2S,Second Sitting,Non-AC seating (reserved or unreserved variants),"IRCTC (reserved), counters"
+SL,Sleeper Class,Non-AC sleeper berths,"IRCTC, counters"
+3A,AC 3 Tier,"AC sleeper, 3-tier berths","IRCTC, counters"
+3E,AC 3 Economy,"Economy AC sleeper, higher berth density","IRCTC, counters"
+2A,AC 2 Tier,"AC sleeper, 2-tier berths","IRCTC, counters"
+1A,First AC,Private cabins/coupes,"IRCTC, counters"
+CC,AC Chair Car,AC seating,"IRCTC, counters"
+EC,Executive Chair Car,Premium AC seating (e.g. Shatabdi/Vande Bharat),"IRCTC, counters"
+Vistadome,Vistadome coach,Glass-roof scenic coach on select trains,"IRCTC, counters"
+Tatkal,Tatkal quota,Last-minute booking at premium; opens day before travel,"IRCTC, counters; rules vary by train"
+Premium Tatkal,Premium Tatkal,Dynamic-fare tatkal,"IRCTC, counters"
+Platform,Platform ticket,Entry to platform only; not a travel ticket,UTS app / platform counters; verify per station
+Suburban,Local / suburban ticket,Unreserved short-distance tickets/passes,"UTS, counters, vending machines"

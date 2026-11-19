@@ -1,0 +1,45 @@
+﻿name,iata,icao,country,type
+Air India,AI,AIC,India,Full-service (Tata group; Vistara merged Nov 2024)
+IndiGo,6E,IGO,India,Low-cost
+Air India Express,IX,AXB,India,Low-cost
+SpiceJet,SG,SEJ,India,Low-cost
+Akasa Air,QP,AKJ,India,Low-cost
+Alliance Air,9I,LLR,India,Regional (UDAN)
+Star Air,S5,SDG,India,Regional
+Emirates,EK,UAE,United Arab Emirates,Full-service
+Etihad Airways,EY,ETD,United Arab Emirates,Full-service
+flydubai,FZ,FDB,United Arab Emirates,Low-cost
+Air Arabia,G9,ABY,United Arab Emirates,Low-cost
+Qatar Airways,QR,QTR,Qatar,Full-service
+Saudia,SV,SVA,Saudi Arabia,Full-service
+Oman Air,WY,OMA,Oman,Full-service
+Gulf Air,GF,GFA,Bahrain,Full-service
+Kuwait Airways,KU,KAC,Kuwait,Full-service
+Singapore Airlines,SQ,SIA,Singapore,Full-service
+Thai Airways,TG,THA,Thailand,Full-service
+Malaysia Airlines,MH,MAS,Malaysia,Full-service
+Cathay Pacific,CX,CPA,Hong Kong SAR,Full-service
+Japan Airlines,JL,JAL,Japan,Full-service
+All Nippon Airways,NH,ANA,Japan,Full-service
+Korean Air,KE,KAL,South Korea,Full-service
+Vietnam Airlines,VN,HVN,Vietnam,Full-service
+SriLankan Airlines,UL,ALK,Sri Lanka,Full-service
+Druk Air,KB,DRK,Bhutan,Flag carrier
+Nepal Airlines,RA,RNA,Nepal,Flag carrier
+Biman Bangladesh Airlines,BG,BBC,Bangladesh,Flag carrier
+British Airways,BA,BAW,United Kingdom,Full-service
+Virgin Atlantic,VS,VIR,United Kingdom,Full-service
+Air France,AF,AFR,France,Full-service
+KLM,KL,KLM,Netherlands,Full-service
+Lufthansa,LH,DLH,Germany,Full-service
+Swiss International Air Lines,LX,SWR,Switzerland,Full-service
+Turkish Airlines,TK,THY,Turkey,Full-service
+United Airlines,UA,UAL,United States,Full-service
+Delta Air Lines,DL,DAL,United States,Full-service
+American Airlines,AA,AAL,United States,Full-service
+Air Canada,AC,ACA,Canada,Full-service
+Qantas,QF,QFA,Australia,Full-service
+Ethiopian Airlines,ET,ETH,Ethiopia,Full-service
+Kenya Airways,KQ,KQA,Kenya,Full-service
+Air Astana,KC,KZR,Kazakhstan,Full-service
+Uzbekistan Airways,HY,UZB,Uzbekistan,Flag carrier

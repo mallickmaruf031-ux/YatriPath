@@ -1,0 +1,147 @@
+﻿state_ut,city,station_name,station_code,zone,division,role
+Delhi (NCT),Delhi,New Delhi,NDLS,NR,Delhi,Terminal / major
+Delhi (NCT),Delhi,Old Delhi (Delhi Junction),DLI,NR,Delhi,Junction / major
+Delhi (NCT),Delhi,Hazrat Nizamuddin,NZM,NR,Delhi,Terminal / major
+Delhi (NCT),Delhi,Anand Vihar Terminal,ANVT,NR,Delhi,Terminal
+Delhi (NCT),Delhi,Delhi Sarai Rohilla,DEE,NR,Delhi,Terminal
+Delhi (NCT),Delhi,Delhi Cantonment,DEC,NR,Delhi,Station
+Maharashtra,Mumbai,Chhatrapati Shivaji Maharaj Terminus,CSMT,CR,Mumbai,Terminal / suburban hub
+Maharashtra,Mumbai,Lokmanya Tilak Terminus,LTT,CR,Mumbai,Terminal
+Maharashtra,Mumbai,Mumbai Central,BCT,WR,Mumbai,Terminal
+Maharashtra,Mumbai,Bandra Terminus,BDTS,WR,Mumbai,Terminal
+Maharashtra,Mumbai,Dadar (Central),DR,CR,Mumbai,Suburban hub
+Maharashtra,Mumbai,Dadar (Western),DDR,WR,Mumbai,Suburban hub
+Maharashtra,Mumbai,Churchgate,CCG,WR,Mumbai,Suburban terminal
+Maharashtra,Mumbai,Andheri,ADH,WR,Mumbai,Suburban
+Maharashtra,Mumbai,Borivali,BVI,WR,Mumbai,Suburban
+Maharashtra,Mumbai,Thane,TNA,CR,Mumbai,Suburban
+Maharashtra,Mumbai (MMR),Kalyan Junction,KYN,CR,Mumbai,Junction
+Maharashtra,Navi Mumbai,Panvel,PNVL,CR,Mumbai,Junction
+Maharashtra,Vasai,Vasai Road,BSR,WR,Mumbai,Junction
+Maharashtra,Virar,Virar,VR,WR,Mumbai,Suburban
+Maharashtra,Pune,Pune Junction,PUNE,CR,Pune,Junction / major
+Maharashtra,Pune,Shivajinagar,SVJR,CR,Pune,Suburban
+Maharashtra,Lonavala,Lonavala,LNL,CR,Pune,Station
+Maharashtra,Kolhapur,Chhatrapati Shahu Maharaj Terminus Kolhapur,KOP,CR,Pune,Terminal
+Maharashtra,Solapur,Solapur,SUR,CR,Solapur,Junction
+Maharashtra,Nagpur,Nagpur Junction,NGP,CR,Nagpur,Junction / major
+Maharashtra,Nashik,Nashik Road,NK,CR,Bhusawal,Station
+West Bengal,Howrah,Howrah Junction,HWH,ER,Howrah,Terminal / major
+West Bengal,Kolkata,Sealdah,SDAH,ER,Sealdah,Terminal / suburban hub
+West Bengal,Kolkata,Kolkata (Chitpur),KOAA,ER,Sealdah,Terminal
+West Bengal,Howrah,Shalimar,SHM,SER,Kharagpur,Terminal
+West Bengal,Howrah,Santragachi Junction,SRC,SER,Kharagpur,Junction
+West Bengal,Kolkata,Dum Dum Junction,DDJ,ER,Sealdah,Junction
+West Bengal,Barddhaman,Barddhaman Junction,BWN,ER,Howrah,Junction
+West Bengal,Durgapur,Durgapur,DGR,ER,Asansol,Station
+West Bengal,Asansol,Asansol Junction,ASN,ER,Asansol,Junction
+West Bengal,Kharagpur,Kharagpur Junction,KGP,SER,Kharagpur,Junction
+West Bengal,Siliguri,New Jalpaiguri,NJP,NFR,Katihar,Junction / major
+West Bengal,Siliguri,Siliguri Junction,SGUJ,NFR,Katihar,Junction
+Tamil Nadu,Chennai,Chennai Central (MGR),MAS,SR,Chennai,Terminal / suburban hub
+Tamil Nadu,Chennai,Chennai Egmore,MS,SR,Chennai,Terminal
+Tamil Nadu,Chennai,Chennai Beach,MSB,SR,Chennai,Suburban
+Tamil Nadu,Chennai,Tambaram,TBM,SR,Chennai,Suburban / terminal
+Tamil Nadu,Coimbatore,Coimbatore Junction,CBE,SR,Salem,Junction
+Tamil Nadu,Madurai,Madurai Junction,MDU,SR,Madurai,Junction
+Tamil Nadu,Tiruchirappalli,Tiruchirappalli Junction,TPJ,SR,Tiruchirappalli,Junction
+Tamil Nadu,Salem,Salem Junction,SA,SR,Salem,Junction
+Tamil Nadu,Erode,Erode Junction,ED,SR,Salem,Junction
+Tamil Nadu,Katpadi (Vellore),Katpadi Junction,KPD,SR,Chennai,Junction
+Tamil Nadu,Tirunelveli,Tirunelveli Junction,TEN,SR,Madurai,Junction
+Tamil Nadu,Kanniyakumari,Kanniyakumari,CAPE,SR,Thiruvananthapuram,Terminal
+Tamil Nadu,Rameswaram,Rameswaram,RMM,SR,Madurai,Terminal
+Puducherry,Puducherry,Puducherry,PDY,SR,Tiruchirappalli,Terminal
+Karnataka,Bengaluru,KSR Bengaluru City Junction,SBC,SWR,Bengaluru,Junction / major
+Karnataka,Bengaluru,Yesvantpur Junction,YPR,SWR,Bengaluru,Junction
+Karnataka,Bengaluru,Bengaluru Cantonment,BNC,SWR,Bengaluru,Station
+Karnataka,Bengaluru,SMVT Bengaluru (Baiyappanahalli),SMVB,SWR,Bengaluru,Terminal
+Karnataka,Bengaluru,Krishnarajapuram,KJM,SWR,Bengaluru,Station
+Karnataka,Mysuru,Mysuru Junction,MYS,SWR,Mysuru,Junction
+Karnataka,Hubballi,Hubballi Junction,UBL,SWR,Hubballi,Junction
+Karnataka,Belagavi,Belagavi,BGM,SWR,Hubballi,Station
+Kerala,Thiruvananthapuram,Thiruvananthapuram Central,TVC,SR,Thiruvananthapuram,Terminal / major
+Kerala,Kochi,Ernakulam Junction,ERS,SR,Thiruvananthapuram,Junction / major
+Kerala,Kozhikode,Kozhikode,CLT,SR,Palakkad,Station
+Kerala,Thrissur,Thrissur,TCR,SR,Thiruvananthapuram,Station
+Kerala,Palakkad,Palakkad Junction,PGT,SR,Palakkad,Junction
+Kerala,Kannur,Kannur,CAN,SR,Palakkad,Station
+Karnataka,Mangaluru,Mangaluru Central,MAQ,SR,Palakkad,Terminal
+Telangana,Hyderabad,Secunderabad Junction,SC,SCR,Secunderabad,Junction / major
+Telangana,Hyderabad,Hyderabad Deccan (Nampally),HYB,SCR,Hyderabad,Terminal
+Telangana,Hyderabad,Kacheguda,KCG,SCR,Hyderabad,Terminal
+Telangana,Warangal,Warangal,WL,SCR,Secunderabad,Station
+Andhra Pradesh,Vijayawada,Vijayawada Junction,BZA,SCR,Vijayawada,Junction / major
+Andhra Pradesh,Visakhapatnam,Visakhapatnam Junction,VSKP,ECoR,Waltair (verify: zone restructuring),Junction / major
+Andhra Pradesh,Tirupati,Tirupati,TPTY,SCR,Guntur,Station
+Andhra Pradesh,Guntur,Guntur Junction,GNT,SCR,Guntur,Junction
+Andhra Pradesh,Nellore,Nellore,NLR,SCR,Vijayawada,Station
+Andhra Pradesh,Rajahmundry,Rajahmundry,RJY,SCR,Vijayawada,Station
+Gujarat,Ahmedabad,Ahmedabad Junction,ADI,WR,Ahmedabad,Junction / major
+Gujarat,Surat,Surat,ST,WR,Mumbai,Station / major
+Gujarat,Vadodara,Vadodara Junction,BRC,WR,Vadodara,Junction
+Gujarat,Rajkot,Rajkot Junction,RJT,WR,Rajkot,Junction
+Gujarat,Vapi,Vapi,VAPI,WR,Mumbai,Station
+Goa,Madgaon,Madgaon Junction,MAO,KR,Konkan Railway,Junction
+Goa,Vasco da Gama,Vasco da Gama,VSG,SWR,Hubballi,Terminal
+Rajasthan,Jaipur,Jaipur Junction,JP,NWR,Jaipur,Junction / major
+Rajasthan,Jodhpur,Jodhpur Junction,JU,NWR,Jodhpur,Junction
+Rajasthan,Ajmer,Ajmer Junction,AII,NWR,Ajmer,Junction
+Rajasthan,Bikaner,Bikaner Junction,BKN,NWR,Bikaner,Junction
+Rajasthan,Jaisalmer,Jaisalmer,JSM,NWR,Jodhpur,Terminal
+Rajasthan,Kota,Kota Junction,KOTA,WCR,Kota,Junction
+Uttar Pradesh,Lucknow,Lucknow Charbagh,LKO,NR,Lucknow,Junction / major
+Uttar Pradesh,Lucknow,Lucknow Junction (Aishbagh),LJN,NER,Lucknow,Junction
+Uttar Pradesh,Kanpur,Kanpur Central,CNB,NCR,Prayagraj,Junction / major
+Uttar Pradesh,Varanasi,Varanasi Junction,BSB,NER,Varanasi,Junction / major
+Uttar Pradesh,Prayagraj,Prayagraj Junction,PRYJ,NCR,Prayagraj,Junction
+Uttar Pradesh,Agra,Agra Cantonment,AGC,NCR,Agra,Station / major
+Uttar Pradesh,Mathura,Mathura Junction,MTJ,NCR,Agra,Junction
+Uttar Pradesh,Jhansi,Jhansi Junction,JHS,NCR,Jhansi,Junction
+Uttar Pradesh,Gorakhpur,Gorakhpur Junction,GKP,NER,(verify),Junction
+Uttar Pradesh,Moradabad,Moradabad,MB,NR,Moradabad,Junction
+Uttarakhand,Dehradun,Dehradun,DDN,NR,Moradabad,Terminal
+Uttarakhand,Haridwar,Haridwar Junction,HW,NR,Moradabad,Junction
+Madhya Pradesh,Bhopal,Bhopal Junction,BPL,WCR,Bhopal,Junction / major
+Madhya Pradesh,Bhopal,Rani Kamalapati (Habibganj),RKMP,WCR,Bhopal,Station
+Madhya Pradesh,Indore,Indore Junction,INDB,WR,Ratlam,Junction
+Madhya Pradesh,Jabalpur,Jabalpur,JBP,WCR,Jabalpur,Junction
+Madhya Pradesh,Gwalior,Gwalior,GWL,NCR,Jhansi,Junction
+Madhya Pradesh,Itarsi,Itarsi Junction,ET,WCR,Bhopal,Junction
+Chhattisgarh,Raipur,Raipur Junction,R,SECR,Raipur,Junction
+Chhattisgarh,Bilaspur,Bilaspur Junction,BSP,SECR,Bilaspur,Junction
+Chhattisgarh,Durg,Durg,DURG,SECR,Raipur,Junction
+Bihar,Patna,Patna Junction,PNBE,ECR,Danapur,Junction / major
+Bihar,Patna,Danapur,DNR,ECR,Danapur,Station
+Bihar,Patna,Rajendra Nagar Terminal,RJPB,ECR,Danapur,Terminal
+Bihar,Gaya,Gaya Junction,GAYA,ECR,Dhanbad,Junction
+Bihar,Mughalsarai,Pt. Deen Dayal Upadhyaya Junction,DDU,ECR,Pt. DDU,Junction / major
+Jharkhand,Ranchi,Ranchi Junction,RNC,SER,Ranchi,Junction
+Jharkhand,Dhanbad,Dhanbad Junction,DHN,ECR,Dhanbad,Junction
+Jharkhand,Jamshedpur,Tatanagar Junction,TATA,SER,Chakradharpur,Junction
+Odisha,Bhubaneswar,Bhubaneswar,BBS,ECoR,Khurda Road,Station / major
+Odisha,Puri,Puri,PURI,ECoR,Khurda Road,Terminal
+Odisha,Cuttack,Cuttack,CTC,ECoR,Khurda Road,Station
+Odisha,Sambalpur,Sambalpur,SBP,ECoR,Sambalpur,Station
+Punjab,Amritsar,Amritsar Junction,ASR,NR,Firozpur,Junction / major
+Punjab,Ludhiana,Ludhiana Junction,LDH,NR,Firozpur,Junction
+Punjab,Jalandhar,Jalandhar City Junction,JUC,NR,Firozpur,Junction
+Punjab,Pathankot,Pathankot,PTK,NR,Firozpur,Junction
+Chandigarh,Chandigarh,Chandigarh,CDG,NR,Ambala,Station
+Haryana,Ambala,Ambala Cantonment,UMB,NR,Ambala,Junction
+Haryana,Kalka,Kalka,KLK,NR,Ambala,Terminal
+Himachal Pradesh,Shimla,Shimla,SML,NR,Ambala,Terminal (narrow gauge)
+Jammu and Kashmir,Jammu,Jammu Tawi,JAT,NR,(verify; divisions reorganised),Terminal
+Jammu and Kashmir,Katra,Shri Mata Vaishno Devi Katra,SVDK,NR,(verify),Terminal
+Jammu and Kashmir,Srinagar,Srinagar,SINA,NR,(verify),Station
+Jammu and Kashmir,Baramulla,Baramulla,BRML,NR,(verify),Terminal
+Assam,Guwahati,Guwahati,GHY,NFR,Lumding,Junction / major
+Assam,Guwahati,Kamakhya Junction,KYQ,NFR,Lumding,Junction
+Assam,Dibrugarh,Dibrugarh,DBRG,NFR,Tinsukia,Terminal
+Assam,Silchar,Silchar,SCL,NFR,Lumding,Terminal
+Tripura,Agartala,Agartala,AGTL,NFR,Lumding,Terminal
+Nagaland,Dimapur,Dimapur,DMV,NFR,Lumding,Station
+Arunachal Pradesh,Naharlagun,Naharlagun,NHLN,NFR,Rangiya,Terminal
+Mizoram,Bairabi,Bairabi,BHRB,NFR,Lumding,Terminal
+Manipur,Jiribam,Jiribam,JRBM,NFR,Lumding,Terminal
+Meghalaya,Mendipathar,Mendipathar,MDPR,NFR,Rangiya,Terminal

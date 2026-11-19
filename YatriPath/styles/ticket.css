@@ -1,0 +1,81 @@
+/* VIEW TICKET page: the ticket layout, sample-ticket banner, print rules. */
+
+.ticket {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: var(--sh);
+  max-width: 720px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.ticket header {
+  background: linear-gradient(120deg,var(--navy),var(--blue));
+  color: #fff;
+  padding: 16px 22px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tbody {
+  display: grid;
+  grid-template-columns: 1fr 150px;
+  gap: 18px;
+  padding: 22px;
+}
+
+.tgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.tgrid small {
+  color: var(--mu);
+  display: block;
+}
+
+.qr {
+  width: 130px;
+  height: 130px;
+}
+
+.qrn {
+  font-size: 10px;
+  color: var(--mu);
+  text-align: center;
+}
+
+@media(max-width:900px) {
+  .tbody {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  .ticket,.ticket * {
+    visibility: visible;
+  }
+  .ticket {
+    position: absolute;
+    left: 0;
+    top: 0;
+    box-shadow: none;
+    width: 100%;
+  }
+}
+
+.sbar {
+  margin: 0;
+  background: #fff3d6;
+  color: #8a5a00;
+  text-align: center;
+  font-weight: 700;
+  font-size: 12px;
+  padding: 6px;
+  letter-spacing: .4px;
+}

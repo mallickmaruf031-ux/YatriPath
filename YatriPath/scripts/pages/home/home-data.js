@@ -1,0 +1,5 @@
+'use strict';
+/* HOME PAGE DATA. Popular destinations (DS) and offer banners (OFR). */
+const DS=[['Delhi','India','indiagate'],['Mumbai','India','city'],['Bengaluru','India','city'],['Chennai','India','beach'],['Hyderabad','India','palace'],['Siliguri','India','hills'],['Jaipur','India','palace'],['Goa','India','goa'],['Kolkata','India','city'],['Pune','India','hills'],['Ahmedabad','India','taj'],
+ ['Dubai','UAE','dubai'],['Singapore','Singapore','singapore'],['Bangkok','Thailand','bangkok'],['Kuala Lumpur','Malaysia','kl'],['Bali','Indonesia','bali'],['Malé','Maldives','maldives'],['London','United Kingdom','london'],['Paris','France','paris'],['Amsterdam','Netherlands','amsterdam'],['Zurich','Switzerland','zurich'],['Istanbul','Turkey','istanbul'],['New York','USA','newyork'],['Tokyo','Japan','tokyo'],['Sydney','Australia','sydney'],['Kathmandu','Nepal','mountain'],['Colombo','Sri Lanka','beach'],['Dhaka','Bangladesh','city']];
+const OFR=[['Flat 10% off your first trip','YATRI10',0,'bus'],['₹200 off on any booking','WELCOME200',2,'train'],['15% off on flights','FLY15',4,'plane']];

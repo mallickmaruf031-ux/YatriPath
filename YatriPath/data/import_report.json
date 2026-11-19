@@ -1,0 +1,260 @@
+{
+ "source_rows_states_ut": 36,
+ "source_rows_railway_stations": 146,
+ "source_rows_airports_india": 124,
+ "source_rows_intl_dest_airports": 64,
+ "source_rows_bus_stations": 43,
+ "source_rows_bus_routes": 10,
+ "source_rows_intl_railway_services": 8,
+ "source_rows_airlines": 44,
+ "source_rows_train_services": 17,
+ "source_rows_ticket_classes": 14,
+ "workbook_sheets": {
+  "README": {
+   "state": "visible",
+   "rows": 17
+  },
+  "States_UTs": {
+   "state": "visible",
+   "rows": 36,
+   "matches_csv": true
+  },
+  "Bus_Terminals": {
+   "state": "visible",
+   "rows": 43,
+   "matches_csv": true
+  },
+  "Bus_Routes": {
+   "state": "visible",
+   "rows": 10,
+   "matches_csv": true
+  },
+  "Railway_Stations": {
+   "state": "visible",
+   "rows": 146,
+   "matches_csv": true
+  },
+  "Train_Services": {
+   "state": "visible",
+   "rows": 17,
+   "matches_csv": true
+  },
+  "Ticket_Classes": {
+   "state": "visible",
+   "rows": 14,
+   "matches_csv": true
+  },
+  "Intl_Trains": {
+   "state": "visible",
+   "rows": 8,
+   "matches_csv": true
+  },
+  "Indian_Airports": {
+   "state": "visible",
+   "rows": 124,
+   "matches_csv": true
+  },
+  "Intl_Dest_Airports": {
+   "state": "visible",
+   "rows": 64,
+   "matches_csv": true
+  },
+  "Airlines": {
+   "state": "visible",
+   "rows": 44,
+   "matches_csv": true
+  },
+  "DB_Schema": {
+   "state": "visible",
+   "rows": 15
+  },
+  "Sources": {
+   "state": "visible",
+   "rows": 16
+  },
+  "Limitations": {
+   "state": "visible",
+   "rows": 7
+  }
+ },
+ "summary": {
+  "railway_stations": 146,
+  "airports_india": 124,
+  "airports_international_destinations": 64,
+  "airports_total": 188,
+  "bus_terminals": 43,
+  "bus_boarding_points": 2,
+  "cities": 232,
+  "states_ut": 36,
+  "countries": 41,
+  "airlines": 44,
+  "verified_bus_routes": 10,
+  "verified_rail_routes": 0,
+  "verified_flight_routes": 0,
+  "intl_rail_service_records": 8,
+  "intl_rail_bookable": 0,
+  "reference_fares": 0,
+  "cities_with_coordinates": 181,
+  "rejected_fare_rows": 0,
+  "rejected_rail_route_rows": 0,
+  "rejected_flight_route_rows": 0,
+  "issues_by_type": {
+   "airport_missing_icao": 8,
+   "rail_division_unverified_or_blank": 6
+  }
+ },
+ "issues": [
+  {
+   "type": "rail_division_unverified_or_blank",
+   "detail": "VSKP"
+  },
+  {
+   "type": "rail_division_unverified_or_blank",
+   "detail": "GKP"
+  },
+  {
+   "type": "rail_division_unverified_or_blank",
+   "detail": "JAT"
+  },
+  {
+   "type": "rail_division_unverified_or_blank",
+   "detail": "SVDK"
+  },
+  {
+   "type": "rail_division_unverified_or_blank",
+   "detail": "SINA"
+  },
+  {
+   "type": "rail_division_unverified_or_blank",
+   "detail": "BRML"
+  },
+  {
+   "type": "airport_missing_icao",
+   "detail": "HGI"
+  },
+  {
+   "type": "airport_missing_icao",
+   "detail": "DIU"
+  },
+  {
+   "type": "airport_missing_icao",
+   "detail": "HSR"
+  },
+  {
+   "type": "airport_missing_icao",
+   "detail": "RQY"
+  },
+  {
+   "type": "airport_missing_icao",
+   "detail": "NMI"
+  },
+  {
+   "type": "airport_missing_icao",
+   "detail": "GDB"
+  },
+  {
+   "type": "airport_missing_icao",
+   "detail": "DXN"
+  },
+  {
+   "type": "airport_missing_icao",
+   "detail": "AYJ"
+  }
+ ],
+ "unresolved_bus_terminal_names_stored_as_boarding_points": [
+  "Durgapur City bus stand (operator-specific)",
+  "Shillong Police Bazar area (operator-specific)"
+ ],
+ "bus_route_resolution": [
+  {
+   "id": "BR-1",
+   "src": "Esplanade Bus Terminus",
+   "dst": "Durgapur City bus stand",
+   "km": [
+    170,
+    170
+   ]
+  },
+  {
+   "id": "BR-2",
+   "src": "Esplanade Bus Terminus",
+   "dst": "Tenzing Norgay Central Bus Terminus",
+   "km": [
+    560,
+    600
+   ]
+  },
+  {
+   "id": "BR-3",
+   "src": "Maharana Pratap ISBT (Kashmere Gate)",
+   "dst": "Sindhi Camp Bus Stand",
+   "km": [
+    270,
+    280
+   ]
+  },
+  {
+   "id": "BR-4",
+   "src": "Maharana Pratap ISBT (Kashmere Gate)",
+   "dst": "ISBT Sector 17",
+   "km": [
+    250,
+    250
+   ]
+  },
+  {
+   "id": "BR-5",
+   "src": "Mumbai Central ST Bus Depot (MSRTC)",
+   "dst": "Swargate Bus Station",
+   "km": [
+    150,
+    150
+   ]
+  },
+  {
+   "id": "BR-6",
+   "src": "Kempegowda Bus Station (Majestic)",
+   "dst": "Chennai Mofussil Bus Terminus (CMBT), Koyambedu",
+   "km": [
+    345,
+    345
+   ]
+  },
+  {
+   "id": "BR-7",
+   "src": "Mahatma Gandhi Bus Station (MGBS)",
+   "dst": "Pandit Nehru Bus Station (PNBS)",
+   "km": [
+    270,
+    270
+   ]
+  },
+  {
+   "id": "BR-8",
+   "src": "Chennai Mofussil Bus Terminus (CMBT), Koyambedu",
+   "dst": "Gandhipuram Central Bus Terminus",
+   "km": [
+    500,
+    500
+   ]
+  },
+  {
+   "id": "BR-9",
+   "src": "Geeta Mandir Bus Station",
+   "dst": "Surat Central Bus Depot",
+   "km": [
+    265,
+    265
+   ]
+  },
+  {
+   "id": "BR-10",
+   "src": "Paltan Bazar (ASTC) Bus Station",
+   "dst": "Shillong Police Bazar area",
+   "km": [
+    100,
+    100
+   ]
+  }
+ ]
+}

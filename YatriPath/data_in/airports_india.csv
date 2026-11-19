@@ -1,0 +1,125 @@
+﻿airport_name,city,state_ut,iata,icao,category,status,confidence
+Veer Savarkar International Airport,Port Blair,Andaman and Nicobar Islands,IXZ,VOPB,INTL,Operational,C
+Visakhapatnam Airport,Visakhapatnam,Andhra Pradesh,VTZ,VOVZ,DOM,Operational,C
+Vijayawada Airport,Vijayawada,Andhra Pradesh,VGA,VOBZ,DOM,Operational,C
+Tirupati Airport,Tirupati,Andhra Pradesh,TIR,VOTP,DOM,Operational,C
+Rajahmundry Airport,Rajahmundry,Andhra Pradesh,RJA,VORY,DOM,Operational,C
+Kadapa Airport,Kadapa,Andhra Pradesh,CDP,VOCP,UDAN,Operational,C
+Sri Sathya Sai Airport,Puttaparthi,Andhra Pradesh,PUT,VOPN,UDAN,Operational,C
+Donyi Polo Airport,Itanagar (Hollongi),Arunachal Pradesh,HGI,,UDAN,Operational (opened Nov 2022),C
+Pasighat Airport,Pasighat,Arunachal Pradesh,IXT,VEPG,UDAN,Limited service,C
+Tezu Airport,Tezu,Arunachal Pradesh,TEI,VETJ,UDAN,Limited service,C
+Lokpriya Gopinath Bordoloi International Airport,Guwahati,Assam,GAU,VEGT,INTL,Operational,C
+Dibrugarh Airport,Dibrugarh,Assam,DIB,VEMN,DOM,Operational,C
+Jorhat Airport,Jorhat,Assam,JRH,VEJT,DOM,Operational,C
+Silchar Airport,Silchar,Assam,IXS,VEKU,DOM,Operational,C
+Lilabari Airport,North Lakhimpur,Assam,IXI,VELR,UDAN,Operational,C
+Tezpur Airport,Tezpur,Assam,TEZ,VETZ,UDAN,Limited service,C
+Jay Prakash Narayan Airport,Patna,Bihar,PAT,VEPT,DOM,Operational,C
+Gaya Airport,Gaya,Bihar,GAY,VEGY,INTL,Operational,C
+Darbhanga Airport,Darbhanga,Bihar,DBR,VEDB,UDAN,Operational,C
+Shaheed Bhagat Singh International Airport,Chandigarh (Mohali),Chandigarh,IXC,VICG,INTL,Operational,C
+Swami Vivekananda Airport,Raipur,Chhattisgarh,RPR,VERP,DOM,Operational,C
+Bilaspur Airport,Bilaspur,Chhattisgarh,PAB,VABI,UDAN,Operational,C
+Jagdalpur Airport,Jagdalpur,Chhattisgarh,JGB,VEJG,UDAN,Limited service,C
+Daman Airport,Daman,Dadra and Nagar Haveli and Daman and Diu,NMB,VADN,DOM,Limited / sporadic service,C
+Diu Airport,Diu,Dadra and Nagar Haveli and Daman and Diu,DIU,,UDAN,Limited service,C
+Indira Gandhi International Airport,New Delhi,Delhi (NCT),DEL,VIDP,INTL,Operational,C
+Hindon Airport (civil terminal),Ghaziabad (NCR),Uttar Pradesh,HDO,VIDX,UDAN,Limited regional service,C
+Dabolim Airport (Goa International),Dabolim,Goa,GOI,VAGO,INTL,Operational,C
+Manohar International Airport,Mopa,Goa,GOX,VOGA,INTL,Operational,C
+Sardar Vallabhbhai Patel International Airport,Ahmedabad,Gujarat,AMD,VAAH,INTL,Operational,C
+Surat International Airport,Surat,Gujarat,STV,VASU,INTL,Operational,C
+Vadodara Airport,Vadodara,Gujarat,BDQ,VABO,INTL,Operational,C
+Rajkot Airport (Hirasar),Rajkot,Gujarat,HSR,,DOM,Operational (new Hirasar airport),C
+Bhuj Airport,Bhuj,Gujarat,BHJ,VABJ,UDAN,Operational,C
+Jamnagar Airport,Jamnagar,Gujarat,JGA,VAJM,DOM,Operational,C
+Porbandar Airport,Porbandar,Gujarat,PBD,VAPR,UDAN,Operational,C
+Bhavnagar Airport,Bhavnagar,Gujarat,BHU,VABV,UDAN,Operational,C
+Kandla Airport,Gandhidham,Gujarat,IXY,VAKE,UDAN,Limited service,C
+Maharaja Agrasen Airport,Hisar,Haryana,HSS,VIHR,UDAN,Operational,C
+Kullu-Manali Airport (Bhuntar),Kullu,Himachal Pradesh,KUU,VIBR,UDAN,Operational,C
+Shimla Airport,Shimla,Himachal Pradesh,SLV,VISM,UDAN,Limited service,C
+Kangra Airport (Gaggal),Dharamshala,Himachal Pradesh,DHM,VIGG,UDAN,Operational,C
+Sheikh ul-Alam International Airport,Srinagar,Jammu and Kashmir,SXR,VISR,INTL,Operational,C
+Jammu Airport,Jammu,Jammu and Kashmir,IXJ,VIJU,DOM,Operational,C
+Birsa Munda Airport,Ranchi,Jharkhand,IXR,VERC,DOM,Operational,C
+Jamshedpur Airport (Sonari),Jamshedpur,Jharkhand,IXW,VEJS,UDAN,Limited service,C
+Deoghar Airport,Deoghar,Jharkhand,DGH,VEDO,UDAN,Operational,C
+Kempegowda International Airport,Bengaluru,Karnataka,BLR,VOBL,INTL,Operational,C
+Mangaluru International Airport,Mangaluru,Karnataka,IXE,VOML,INTL,Operational,C
+Hubballi Airport,Hubballi,Karnataka,HBX,VOHB,DOM,Operational,C
+Belagavi Airport,Belagavi,Karnataka,IXG,VABM,UDAN,Operational,C
+Mysuru Airport,Mysuru,Karnataka,MYQ,VOMY,UDAN,Operational,C
+Kalaburagi Airport,Kalaburagi,Karnataka,GBI,VOGB,UDAN,Operational,C
+Jindal Vijaynagar Airport,Ballari,Karnataka,VDY,VOJV,UDAN,Operational,C
+Shivamogga Airport,Shivamogga,Karnataka,RQY,,UDAN,Operational (opened 2023),C
+Trivandrum International Airport,Thiruvananthapuram,Kerala,TRV,VOTV,INTL,Operational,C
+Cochin International Airport,Kochi (Nedumbassery),Kerala,COK,VOCI,INTL,Operational,C
+Calicut International Airport,Kozhikode,Kerala,CCJ,VOCL,INTL,Operational,C
+Kannur International Airport,Kannur,Kerala,CNN,VOKN,INTL,Operational,C
+Kushok Bakula Rimpochee Airport,Leh,Ladakh,IXL,VILH,DOM,Operational,C
+Agatti Airport,Agatti,Lakshadweep,AGX,VOAT,UDAN,Operational,C
+Raja Bhoj Airport,Bhopal,Madhya Pradesh,BHO,VABP,DOM,Operational,C
+Devi Ahilya Bai Holkar Airport,Indore,Madhya Pradesh,IDR,VAID,INTL,Operational,C
+Jabalpur Airport (Dumna),Jabalpur,Madhya Pradesh,JLR,VAJB,DOM,Operational,C
+Gwalior Airport,Gwalior,Madhya Pradesh,GWL,VIGR,DOM,Operational,C
+Khajuraho Airport,Khajuraho,Madhya Pradesh,HJR,VAKJ,DOM,Operational,C
+Chhatrapati Shivaji Maharaj International Airport,Mumbai,Maharashtra,BOM,VABB,INTL,Operational,C
+Navi Mumbai International Airport,Navi Mumbai,Maharashtra,NMI,,INTL,Commercial ops since 25 Dec 2025; first intl route (Abu Dhabi) planned 15 Jul 2026,V
+Pune Airport (Lohegaon),Pune,Maharashtra,PNQ,VAPO,INTL,Operational,C
+Dr. Babasaheb Ambedkar International Airport,Nagpur,Maharashtra,NAG,VANP,INTL,Operational,C
+Chhatrapati Sambhajinagar Airport,Aurangabad,Maharashtra,IXU,VAAU,DOM,Operational,C
+Nashik Airport (Ozar),Nashik,Maharashtra,ISK,VAOZ,UDAN,Operational,C
+Kolhapur Airport,Kolhapur,Maharashtra,KLH,VAKP,UDAN,Operational,C
+Solapur Airport,Solapur,Maharashtra,SSE,VASL,UDAN,Limited service,C
+Jalgaon Airport,Jalgaon,Maharashtra,JLG,VAJL,UDAN,Limited service,C
+Nanded Airport,Nanded,Maharashtra,NDC,VAND,UDAN,Operational,C
+Shirdi Airport,Shirdi,Maharashtra,SAG,VASD,UDAN,Operational,C
+Gondia Airport (Birsi),Gondia,Maharashtra,GDB,,UDAN,Limited service,C
+Bir Tikendrajit International Airport,Imphal,Manipur,IMF,VEIM,INTL,Operational,C
+Shillong Airport (Umroi),Shillong,Meghalaya,SHL,VEBI,UDAN,Limited service,C
+Tura Airport,Tura,Meghalaya,TUR,VETR,UDAN,Limited service,C
+Lengpui Airport,Aizawl,Mizoram,AJL,VELP,DOM,Operational,C
+Dimapur Airport,Dimapur,Nagaland,DMU,VEMR,DOM,Operational,C
+Biju Patnaik International Airport,Bhubaneswar,Odisha,BBI,VEBS,INTL,Operational,C
+Jharsuguda Airport (Veer Surendra Sai),Jharsuguda,Odisha,JRG,VEJH,UDAN,Operational,C
+Rourkela Airport,Rourkela,Odisha,RRK,VERK,UDAN,Limited service,C
+Puducherry Airport,Puducherry,Puducherry,PNY,VOPC,UDAN,Operational,C
+Sri Guru Ram Dass Jee International Airport,Amritsar,Punjab,ATQ,VIAR,INTL,Operational,C
+Ludhiana Airport (Sahnewal),Ludhiana,Punjab,LUH,VILD,UDAN,Limited service,C
+Pathankot Airport,Pathankot,Punjab,IXP,VIPK,UDAN,Limited service,C
+Bathinda Airport,Bathinda,Punjab,BUP,VIBT,UDAN,Limited service,C
+Adampur Airport,Jalandhar (Adampur),Punjab,AIP,VIAX,UDAN,Operational,C
+Jaipur International Airport,Jaipur,Rajasthan,JAI,VIJP,INTL,Operational,C
+Jodhpur Airport,Jodhpur,Rajasthan,JDH,VIJO,DOM,Operational,C
+Maharana Pratap Airport,Udaipur,Rajasthan,UDR,VAUD,DOM,Operational,C
+Jaisalmer Airport,Jaisalmer,Rajasthan,JSA,VIJR,UDAN,Limited service,C
+Bikaner Airport (Nal),Bikaner,Rajasthan,BKB,VIBK,UDAN,Limited service,C
+Kishangarh Airport,Ajmer / Kishangarh,Rajasthan,KQH,VIKG,UDAN,Operational,C
+Kota Airport,Kota,Rajasthan,KTU,VIKO,UDAN,Operational,C
+Pakyong Airport,Gangtok (Pakyong),Sikkim,PYG,VEPY,UDAN,Limited service,C
+Chennai International Airport,Chennai,Tamil Nadu,MAA,VOMM,INTL,Operational,C
+Coimbatore International Airport,Coimbatore,Tamil Nadu,CJB,VOCB,INTL,Operational,C
+Madurai Airport,Madurai,Tamil Nadu,IXM,VOMD,INTL,Operational,C
+Tiruchirappalli International Airport,Tiruchirappalli,Tamil Nadu,TRZ,VOTR,INTL,Operational,C
+Tuticorin Airport,Thoothukudi,Tamil Nadu,TCR,VOTK,UDAN,Operational,C
+Salem Airport,Salem,Tamil Nadu,SXV,VOSM,UDAN,Operational,C
+Rajiv Gandhi International Airport,Hyderabad (Shamshabad),Telangana,HYD,VOHS,INTL,Operational,C
+Maharaja Bir Bikram Airport,Agartala,Tripura,IXA,VEAT,DOM,Operational,C
+Chaudhary Charan Singh International Airport,Lucknow,Uttar Pradesh,LKO,VILK,INTL,Operational,C
+Lal Bahadur Shastri International Airport,Varanasi,Uttar Pradesh,VNS,VEBN,INTL,Operational,C
+Noida International Airport (Jewar),Jewar (Noida),Uttar Pradesh,DXN,,INTL,Commercial ops since 15 Jun 2026 (domestic); intl ops expected later,V
+Kanpur Airport (Chakeri),Kanpur,Uttar Pradesh,KNU,VIKA,UDAN,Limited service,C
+Prayagraj Airport (Bamrauli),Prayagraj,Uttar Pradesh,IXD,VIAL,DOM,Operational,C
+Agra Airport (Kheria),Agra,Uttar Pradesh,AGR,VIAG,UDAN,Limited service,C
+Gorakhpur Airport,Gorakhpur,Uttar Pradesh,GOP,VEGK,UDAN,Operational,C
+Maharishi Valmiki International Airport,Ayodhya,Uttar Pradesh,AYJ,,DOM,Operational,C
+Bareilly Airport,Bareilly,Uttar Pradesh,BEK,VIBY,UDAN,Limited service,C
+Jolly Grant Airport,Dehradun,Uttarakhand,DED,VIDN,DOM,Operational,C
+Pantnagar Airport,Pantnagar,Uttarakhand,PGH,VIPT,UDAN,Limited service,C
+Netaji Subhas Chandra Bose International Airport,Kolkata,West Bengal,CCU,VECC,INTL,Operational,C
+Bagdogra Airport,Siliguri (Bagdogra),West Bengal,IXB,VEBD,DOM,Operational (customs),C
+Cooch Behar Airport,Cooch Behar,West Bengal,COH,VECO,UDAN,Limited service,C
+Malda Airport,Malda,West Bengal,LDA,VEMH,UDAN,Limited service,C
+Kazi Nazrul Islam Airport,Durgapur (Andal),West Bengal,RDP,VEDG,DOM,Operational,C

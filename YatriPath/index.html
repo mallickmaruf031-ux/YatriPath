@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>YatriPath – Bus, Train &amp; Flight Booking</title>
+  <link rel="icon" type="image/png" href="assets/logo/yatripath-logo.png">
+  <link rel="icon" type="image/svg+xml" href="assets/logo/yatripath.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles/base.css">
+  <link rel="stylesheet" href="styles/components.css">
+  <link rel="stylesheet" href="styles/navigation.css">
+  <link rel="stylesheet" href="styles/home.css">
+  <link rel="stylesheet" href="styles/location-search.css">
+  <link rel="stylesheet" href="styles/search-results.css">
+  <link rel="stylesheet" href="styles/booking.css">
+  <link rel="stylesheet" href="styles/my-bookings.css">
+  <link rel="stylesheet" href="styles/ticket.css">
+  <link rel="stylesheet" href="styles/login-signup.css">
+  <link rel="stylesheet" href="styles/info-pages.css">
+</head>
+
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="yp-logo" viewBox="0 0 1024 768">
+      <image href="assets/logo/yatripath-logo.png" width="1024" height="768" />
+    </symbol>
+  </svg>
+  <header class="top">
+    <a class="brand" href="#home" data-v="home" aria-label="YatriPath home">
+      <img class="logo" src="assets/logo/yatripath-logo.png" width="52" height="52" alt="YatriPath logo">
+      <span class="bn"><b>Yatri<i>Path</i></b></span>
+    </a>
+    <nav id="nav" aria-label="Main">
+      <a href="#home" data-v="home"><svg class="i nav-i" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+          <polyline points="9 22 9 12 15 12 15 22" />
+        </svg>Home</a>
+      <a href="#bookings" data-v="bookings"><svg class="i nav-i" viewBox="0 0 24 24" aria-hidden="true">
+          <rect x="2" y="6" width="20" height="12" rx="2" />
+          <path d="M12 6v12M2 12h2M20 12h2" />
+        </svg>My Bookings</a>
+      <a href="#profile" data-v="profile"><svg class="i nav-i" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
+          <circle cx="12" cy="7" r="4" />
+        </svg>Profile</a>
+      <a href="#about" data-v="about">About Us</a>
+      <a href="#support" data-v="support">Contact</a>
+    </nav>
+    <div class="hact">
+      <button class="icon-btn" id="bell" aria-label="Notifications"></button>
+      <button class="btn ghost" id="loginBtn"><svg class="i btn-i" viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
+          <circle cx="12" cy="7" r="4" />
+        </svg>Login</button>
+      <button class="btn" id="signBtn">Sign Up</button>
+      <button class="icon-btn burger" id="burger" aria-label="Menu" aria-expanded="false">☰</button>
+    </div>
+    <div class="notif" id="notif" hidden></div>
+  </header>
+  <main id="app"></main>
+  <footer class="foot">
+    <div class="fgrid">
+      <div>
+        <div class="brand light"><img class="logo" width="40" height="40" src="assets/logo/yatripath-logo.png"
+            alt="YatriPath logo"><span class="bn"><b>Yatri<i>Path</i></b></span></div>
+        <p>One place to search, compare and manage bus, train and flight journeys.</p>
+      </div>
+      <div>
+        <h3>Explore</h3><a href="#search" data-v="search">Search Trips</a><a href="#bookings" data-v="bookings">My
+          Bookings</a><a href="#profile" data-v="profile">Profile</a>
+      </div>
+      <div>
+        <h3>Help</h3><a href="#support" data-v="support">Customer Support</a><a href="#faq" data-v="faq">FAQ</a><a
+          href="#contact" data-v="contact">Contact Us</a>
+      </div>
+      <div>
+        <h3>Legal</h3><a href="#terms" data-v="terms">Terms &amp; Conditions</a><a href="#privacy"
+          data-v="privacy">Privacy Policy</a><a href="#about" data-v="about">About Us</a>
+      </div>
+    </div>
+    <p class="copy">© 2026 YatriPath. All rights reserved.</p>
+  </footer>
+  <div id="modal" class="modal" hidden>
+    <div class="mbox" role="dialog" aria-modal="true"><button class="mclose" aria-label="Close"><svg class="i"
+          viewBox="0 0 24 24" aria-hidden="true">
+          <line x1="18" y1="6" x2="6" y2="18" />
+          <line x1="6" y1="6" x2="18" y2="18" />
+        </svg></button>
+      <div id="mbody"></div>
+    </div>
+  </div>
+  <div id="toasts" aria-live="polite"></div>
+  <script src="scripts/core/icons.js"></script>
+  <script src="scripts/core/helpers.js"></script>
+  <script src="scripts/core/transport-types.js"></script>
+  <script src="scripts/core/images.js"></script>
+  <script src="scripts/core/app-state.js"></script>
+  <script src="scripts/core/router.js"></script>
+  <script src="scripts/services/live-providers.js"></script>
+  <script src="scripts/services/transport-search-service.js"></script>
+  <script src="scripts/transport/bus/bus-sample-itineraries.js"></script>
+  <script src="scripts/transport/train/train-sample-itineraries.js"></script>
+  <script src="scripts/transport/flight/flight-sample-itineraries.js"></script>
+  <script src="scripts/transport/bus/bus-search-results.js"></script>
+  <script src="scripts/transport/train/train-search-results.js"></script>
+  <script src="scripts/transport/flight/flight-search-results.js"></script>
+  <script src="scripts/transport/bus/bus-booking.js"></script>
+  <script src="scripts/transport/train/train-booking.js"></script>
+  <script src="scripts/transport/flight/flight-booking.js"></script>
+  <script src="scripts/components/location-autocomplete.js"></script>
+  <script src="scripts/components/navigation.js"></script>
+  <script src="scripts/pages/home/home-data.js"></script>
+  <script src="scripts/pages/home/multi-mode.js"></script>
+  <script src="scripts/pages/home/home.js"></script>
+  <script src="scripts/pages/search-results/search-result-cards.js"></script>
+  <script src="scripts/pages/search-results/search-results.js"></script>
+  <script src="scripts/pages/booking/booking-fares.js"></script>
+  <script src="scripts/pages/booking/passenger-identity.js"></script>
+  <script src="scripts/pages/booking/booking-flow.js"></script>
+  <script src="scripts/pages/my-bookings/my-bookings.js"></script>
+  <script src="scripts/pages/ticket/view-ticket.js"></script>
+  <script src="scripts/pages/profile/profile.js"></script>
+  <script src="scripts/pages/support/support.js"></script>
+  <script src="scripts/pages/info-pages/info-pages.js"></script>
+  <script src="scripts/pages/login/login-signup.js"></script>
+  <script src="scripts/main.js"></script>
+</body>
+
+</html>

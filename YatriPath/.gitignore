@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Python (created when you run tools/import_data.py)
+__pycache__/
+*.pyc
+
+# Node (only if you add tools later)
+node_modules/
+
+# Logs and temporary files
+*.log
+*.tmp

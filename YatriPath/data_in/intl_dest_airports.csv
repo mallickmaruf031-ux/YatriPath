@@ -1,0 +1,65 @@
+﻿country,city,airport_name,iata
+United Arab Emirates,Dubai,Dubai International Airport,DXB
+United Arab Emirates,Dubai,Al Maktoum International Airport,DWC
+United Arab Emirates,Abu Dhabi,Zayed International Airport,AUH
+United Arab Emirates,Sharjah,Sharjah International Airport,SHJ
+United Arab Emirates,Ras Al Khaimah,Ras Al Khaimah International Airport,RKT
+Saudi Arabia,Riyadh,King Khalid International Airport,RUH
+Saudi Arabia,Jeddah,King Abdulaziz International Airport,JED
+Saudi Arabia,Dammam,King Fahd International Airport,DMM
+Saudi Arabia,Madinah,Prince Mohammad bin Abdulaziz Airport,MED
+Qatar,Doha,Hamad International Airport,DOH
+Oman,Muscat,Muscat International Airport,MCT
+Kuwait,Kuwait City,Kuwait International Airport,KWI
+Bahrain,Manama,Bahrain International Airport,BAH
+Singapore,Singapore,Singapore Changi Airport,SIN
+Thailand,Bangkok,Suvarnabhumi Airport,BKK
+Thailand,Bangkok,Don Mueang International Airport,DMK
+Thailand,Phuket,Phuket International Airport,HKT
+Malaysia,Kuala Lumpur,Kuala Lumpur International Airport,KUL
+Indonesia,Bali (Denpasar),Ngurah Rai International Airport,DPS
+Vietnam,Ho Chi Minh City,Tan Son Nhat International Airport,SGN
+Vietnam,Hanoi,Noi Bai International Airport,HAN
+Myanmar,Yangon,Yangon International Airport,RGN
+Sri Lanka,Colombo,Bandaranaike International Airport,CMB
+Maldives,Male,Velana International Airport,MLE
+Nepal,Kathmandu,Tribhuvan International Airport,KTM
+Bhutan,Paro,Paro International Airport,PBH
+Bangladesh,Dhaka,Hazrat Shahjalal International Airport,DAC
+Hong Kong SAR,Hong Kong,Hong Kong International Airport,HKG
+China,Shanghai,Shanghai Pudong International Airport,PVG
+China,Guangzhou,Guangzhou Baiyun International Airport,CAN
+Japan,Tokyo,Narita International Airport,NRT
+Japan,Tokyo,Haneda Airport,HND
+Japan,Osaka,Kansai International Airport,KIX
+South Korea,Seoul,Incheon International Airport,ICN
+United Kingdom,London,Heathrow Airport,LHR
+United Kingdom,London,Gatwick Airport,LGW
+United Kingdom,Manchester,Manchester Airport,MAN
+United Kingdom,Birmingham,Birmingham Airport,BHX
+France,Paris,Charles de Gaulle Airport,CDG
+Germany,Frankfurt,Frankfurt Airport,FRA
+Germany,Munich,Munich Airport,MUC
+Netherlands,Amsterdam,Amsterdam Schiphol Airport,AMS
+Italy,Milan,Milan Malpensa Airport,MXP
+Italy,Rome,Leonardo da Vinci-Fiumicino Airport,FCO
+Switzerland,Zurich,Zurich Airport,ZRH
+Denmark,Copenhagen,Copenhagen Airport,CPH
+Turkey,Istanbul,Istanbul Airport,IST
+Uzbekistan,Tashkent,Tashkent International Airport,TAS
+Kazakhstan,Almaty,Almaty International Airport,ALA
+United States,New York,John F. Kennedy International Airport,JFK
+United States,Newark,Newark Liberty International Airport,EWR
+United States,Chicago,O'Hare International Airport,ORD
+United States,San Francisco,San Francisco International Airport,SFO
+United States,"Washington, D.C.",Washington Dulles International Airport,IAD
+United States,Seattle,Seattle-Tacoma International Airport,SEA
+Canada,Toronto,Toronto Pearson International Airport,YYZ
+Canada,Vancouver,Vancouver International Airport,YVR
+Australia,Sydney,Sydney Kingsford Smith Airport,SYD
+Australia,Melbourne,Melbourne Airport,MEL
+Ethiopia,Addis Ababa,Addis Ababa Bole International Airport,ADD
+Kenya,Nairobi,Jomo Kenyatta International Airport,NBO
+South Africa,Johannesburg,O.R. Tambo International Airport,JNB
+Egypt,Cairo,Cairo International Airport,CAI
+Mauritius,Port Louis,Sir Seewoosagur Ramgoolam International Airport,MRU

@@ -1,0 +1,277 @@
+/* INFO PAGES: About Us, Terms & Conditions, Privacy Policy, page banners, stats, service cards, steps. */
+
+.phero {
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 60px 5vw;
+  position: relative;
+}
+
+.phero.tall {
+  padding: 90px 5vw;
+}
+
+.phero:before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(5,20,45,.55);
+}
+
+.phero>* {
+  position: relative;
+}
+
+.phero h1 {
+  margin: 0 0 6px;
+  font-size: clamp(28px,4vw,42px);
+}
+
+.legal {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 22px;
+  align-items: start;
+}
+
+.toc {
+  position: sticky;
+  top: 80px;
+  background: #fff;
+  border-radius: var(--r);
+  padding: 12px;
+  box-shadow: var(--sh);
+  display: flex;
+  flex-direction: column;
+}
+
+.toc a {
+  padding: 8px 10px;
+  border-radius: 8px;
+  color: var(--mu);
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.toc a:hover {
+  background: var(--cy);
+  color: var(--navy);
+}
+
+@media(max-width:900px) {
+  .legal {
+    grid-template-columns: 1fr;
+  }
+  .toc {
+    position: static;
+  }
+}
+
+.phero {
+  background-repeat: no-repeat;
+}
+
+.gal {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+  gap: 14px;
+}
+
+.gal .ph {
+  height: 220px;
+  border-radius: var(--r);
+  color: #fff;
+  display: flex;
+  align-items: flex-end;
+  padding: 14px;
+  overflow: hidden;
+}
+
+.gal .ph:after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(transparent 50%,rgba(5,20,45,.8));
+}
+
+.gal b {
+  position: relative;
+  z-index: 1;
+  font-size: 18px;
+}
+
+.stats b {
+  font-family: var(--fd);
+}
+
+.feat p {
+  margin: 0;
+  color: var(--mu);
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(160px,1fr));
+  margin-top: -70px;
+  position: relative;
+  padding: 26px 10px;
+  text-align: center;
+}
+
+.stats div+div {
+  border-left: 1px solid var(--bd);
+}
+
+.stats b {
+  display: block;
+  font-size: 34px;
+  color: var(--navy);
+  letter-spacing: -1px;
+}
+
+.stats span {
+  color: var(--mu);
+  font-size: 14px;
+}
+
+.split {
+  display: grid;
+  grid-template-columns: 1.1fr 1fr;
+  gap: 40px;
+  align-items: center;
+}
+
+.split p {
+  color: #3d4d66;
+  max-width: 60ch;
+}
+
+.ph.rounded {
+  height: 340px;
+  border-radius: 22px;
+  box-shadow: var(--sh2);
+}
+
+.grid3 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+  gap: 20px;
+}
+
+.svc {
+  overflow: hidden;
+}
+
+.svc .ph {
+  height: 200px;
+  transition: transform .4s;
+}
+
+.svc:hover .ph {
+  transform: scale(1.04);
+}
+
+.svc {
+  overflow: hidden;
+}
+
+.svc .pad p {
+  margin: 6px 0 0;
+  color: var(--mu);
+}
+
+.svc h3 svg {
+  color: var(--teal);
+}
+
+.steps2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+  gap: 24px;
+}
+
+.steps2 div {
+  position: relative;
+  padding-top: 6px;
+}
+
+.steps2 span {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background: linear-gradient(135deg,var(--blue),var(--teal));
+  color: #fff;
+  font: 700 16px var(--fd);
+  margin-bottom: 12px;
+}
+
+.steps2 p {
+  margin: 4px 0 0;
+  color: var(--mu);
+}
+
+.phero.abt {
+  padding: 100px 5vw 130px;
+}
+
+.phero .inner {
+  max-width: 1160px;
+  margin: 0 auto;
+}
+
+.phero.abt h1 {
+  font-size: clamp(32px,5vw,52px);
+  letter-spacing: -1.5px;
+  max-width: 14em;
+}
+
+.phero.abt p {
+  font-size: 18px;
+  max-width: 46ch;
+  color: #e2f3f6;
+}
+
+.acts2 {
+  display: flex;
+  gap: 12px;
+  margin-top: 22px;
+  flex-wrap: wrap;
+}
+
+.acts2 .ghost {
+  background: transparent;
+  color: #fff;
+  border-color: rgba(255,255,255,.6);
+}
+
+.phero {
+  padding: 64px 5vw;
+}
+
+.phero h1 {
+  font-family: var(--fd);
+}
+
+@media(max-width:900px) {
+  .split {
+    grid-template-columns: 1fr;
+  }
+  .ph.rounded {
+    height: 240px;
+  }
+  .stats {
+    margin-top: -60px;
+  }
+  .stats div+div {
+    border-left: 0;
+  }
+}
+
+@media(max-width:520px) {
+  .stats b {
+    font-size: 28px;
+  }
+}
